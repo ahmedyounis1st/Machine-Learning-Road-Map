@@ -69,8 +69,7 @@ http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Hands-On-Ma
 
 لما تخلص بقى الكورسات و وصلت بقى لحته الـ neural networks في الكتاب
 
-خش على andrew's deep learning specialization على كورسيرا
-https://www.coursera.org/specializations/deep-learning
+خش على [andrew's deep learning specialization](https://www.coursera.org/specializations/deep-learning) على كورسيرا
 
 طبعا مع الكلام ده كله انت بتحل على [kaggle](https://www.kaggle.com/) و بتشوف الـ [competitions](https://www.kaggle.com/competitions) اللي بينزلوها و تحاول فيها.
 
